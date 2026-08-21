@@ -19,5 +19,21 @@ print("float:")
 # print(type(1e3))
 
 print("complex:")
-#print(1 + 2j)
-#print(type(1 + 2j))
+# print(1 + 2j)
+# print(type(1 + 2j))
+
+print("str:")
+# print(type("Hola"))
+# print(type(""))
+# print(type("123"))
+# print(type("""
+# Multilinea
+# """))
+
+print("bool:")
+# print(type(True))
+# print(type(False))
+# print(type(1 < 2))
+
+print("Nonetype: ")
+# print(type(None))
