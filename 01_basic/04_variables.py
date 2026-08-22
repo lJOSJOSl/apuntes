@@ -49,7 +49,7 @@
 # mi-variable = "ko"
 # mi variable = "ko"
 
-True = False
+# True = False
 
 # ["False", "None", "True", "and", "as", "assert",
 #  "async", "await", "break", "class", "continue",
@@ -57,3 +57,10 @@ True = False
 #  "for", "from", "global", "if", "import", "in", "is",
 #  "lambda", "nonlocal", "not", "or", "pass", "raise"
 #  "return", "try", "while", "with", "yield"]
+
+# types anotation
+# is_user_logged_in: bool = True
+# print(is_user_logged_in)
+
+# is_user_logged_in = 42
+# print(is_user_logged_in)
