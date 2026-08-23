@@ -80,3 +80,4 @@ animals = ["🐼", "🐶", "🐨", "🐶", "🐶", "🐶", "😿", "🐹"]
 print(len(animals)) # Tamaño de la lista -> 8
 print(animals.count("🐶")) # Cuantas veces aparece el "🐶" -> 4
 print("🐨" in animals) # Comprueba si hay un "🐨" en la lista -> True
+print("😺" in animals) # -> False
