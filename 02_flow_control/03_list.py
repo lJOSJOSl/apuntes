@@ -59,3 +59,6 @@ print(lista1)
 # Forma corta y mas eficiente
 lista1 += [7, 8, 9]
 print(lista1)
+
+# Recuperar longitud de unalista
+print("Longitud de la lista", len(lista1))
