@@ -86,11 +86,13 @@ while numero <= 0:
 print(f"El numero que has introducido es {numero}")
 
 numero = -1
-while numero <= 0:
+
+while numero < 0:
     try:
         numero = int(input("Escribe un numero positivo: "))
         if numero < 0:
             print("El numero debe ser positivo. Trata de nuevo")
     except:
         print("Debes de ingresar un numero")
+
 print(f"El numero que has introducido es {numero}")
