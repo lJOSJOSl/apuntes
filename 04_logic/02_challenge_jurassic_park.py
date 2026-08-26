@@ -24,6 +24,7 @@ def pair(numeros):
     return suma_pares
 
 #print(pair(a))
+
 # Para ver si un numero es par siempre usamos el modulo % nos da el resto de la division: eggs % 2: == 2
 def count_carnivore_dinosaur_eggs(egg_list) -> int:
     '''

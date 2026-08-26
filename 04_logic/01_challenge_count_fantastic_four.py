@@ -47,7 +47,9 @@ def equilibrio_alianza(texto):
 #print(equilibrio_alianza("rodrigo"))
 
 def check_is_balanced(text):
-
+    ''' Ejercicio realizado con guia usa una funcion que viene integrada en python(count)
+        y retornar directamente el valor
+    '''
     text = text.upper()
 
     # Contar facilmente alguna letra en un texto.
